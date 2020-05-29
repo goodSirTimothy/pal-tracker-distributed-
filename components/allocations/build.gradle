@@ -4,5 +4,4 @@ dependencies {
     compile "io.github.resilience4j:resilience4j-spring-boot2:1.2.0"
 
     testCompile project(":components:test-support")
-
 }
