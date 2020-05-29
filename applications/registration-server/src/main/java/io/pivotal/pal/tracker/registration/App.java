@@ -12,7 +12,6 @@ import java.util.TimeZone;
 
 @EnableWebSecurity
 @EnableResourceServer
-@EnableOAuth2Client
 @SpringBootApplication
 @ComponentScan({
     "io.pivotal.pal.tracker.accounts",
